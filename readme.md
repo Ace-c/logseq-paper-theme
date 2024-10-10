@@ -10,7 +10,7 @@ The easiest way to adopt this theme is to use jsDelivr CDN by adding the followi
 
 ```css
 /* This must be the first line of the custom.css with other import rules */
-@import url("https://wirtzdan.github.io/logseq-paper-theme/custom.css");
+@import url("https://raw.githubusercontent.com/Ace-c/logseq-paper-theme/refs/heads/master/custom.css");
 
 /* Add these variables to your custom.css if you want to hide these page elements in the UI. Remove them to make them visible again. */
 :root {
